@@ -1,0 +1,11 @@
+# gitignore file
+
+#eclipse
+/target/
+/.settings/
+/build/
+
+.classpath
+.project
+.class
+
